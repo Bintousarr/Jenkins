@@ -16,3 +16,4 @@ pipeline {
                  bat 'C:/Program Files/Docker/Docker/resources/bin/docker-compose up -d --build'
             }
         }
+        }
